@@ -10,4 +10,6 @@ Levels of difficulty is determined by grid, which can be changed in the **menu b
 and stopped by pressing 'b' and 's' respectively. The checker's dropping path and final position is determined by mouse 
 clicking the targeting row or pressing certain keys (left, right, enter). The goal of game is to get four identical checkers connected vertically, horizontally, 
 or diagonally.
+## TO RUN
+Open with Eclipse. Hit the play button.
 
