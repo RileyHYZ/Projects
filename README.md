@@ -1,6 +1,6 @@
 # Projects
 ## Summary
-Side projects created by Huiyi(Riley) Zhou, including games, systems, applications and hardware-related projects, starting from December 2016.
+Side projects created by Huiyi (Riley) Zhou, including games, systems, applications and hardware-related projects, starting from December 2016.
 ## Content
 - [x] [**Connect Four**](https://github.com/RileyHYZ/Projects/tree/master/ConnectFour)   
 - [x] [**"Find Your Pokemon"**](https://github.com/RileyHYZ/Projects/tree/master/FindYourPokemon), Single-Player Matching Game 
