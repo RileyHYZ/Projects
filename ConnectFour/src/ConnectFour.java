@@ -37,9 +37,6 @@ public class ConnectFour extends JPanel implements ActionListener, MouseListener
     
     Timer timer;
 
-    // For drawing images offScreen (prevents Flicker)
-    // These variables keep track of an off screen image object and
-    // its corresponding graphics object
     Image offScreenImage;
     Graphics offScreenBuffer;
 
@@ -165,10 +162,6 @@ public class ConnectFour extends JPanel implements ActionListener, MouseListener
     } // Constructor
 
 
-    private void addImage(Image backImage2) {
-    	
-	}
-
 
 	public URL getCompleteURL (String fileName)
 	{
@@ -234,8 +227,6 @@ public class ConnectFour extends JPanel implements ActionListener, MouseListener
 	    currentColumn = cc;
 	    repaint ();
     }
-    
-//------------YOUR CODE GOES HERE  ------------------//
 
     /*description: the method clears the board
      * parameter: the piece in every coordinates
@@ -324,7 +315,6 @@ public class ConnectFour extends JPanel implements ActionListener, MouseListener
     	return winner;
     }
 
-//----------------------------------------------------//
 
 
     public void handleAction (int x, int y)
